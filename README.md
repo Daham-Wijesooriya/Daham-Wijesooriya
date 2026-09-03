@@ -34,6 +34,7 @@ $ tech --stack
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=39FF14" />
 
 **Tools**
@@ -51,7 +52,7 @@ $ github --stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Daham-Wijesooriya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Daham-Wijesooriya&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Daham-Wijesooriya&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daham-Wijesooriya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="45%" />
 
